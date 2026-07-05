@@ -1,0 +1,11 @@
+{
+  "name": "SmartKisan 360",
+  "description": "An AI-powered smart agricultural ecosystem for farmers, customers, and dealers supporting crop predictions, cultivation guides, disease detection, and direct localized marketing.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
